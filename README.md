@@ -1,4 +1,2 @@
 # sample-project
 sample project
-
-#
